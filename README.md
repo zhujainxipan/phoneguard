@@ -18,8 +18,10 @@
 
 ###技术要点
 
-1. listview+checkbox
-2. fragment+viewpager
-3. sqlite
-4. service
-5. broadcastreceiver
+1. ListView+CheckBox
+2. Fragment+ViewPager
+3. Sqlite
+4. Service
+5. BroadcastReceiver
+6. ContentProvider
+7. Activity
