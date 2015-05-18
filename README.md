@@ -1,6 +1,6 @@
 # phoneguard,手机卫士
 
-功能概述
+###功能概述
 
 **黑名单管理**
 
@@ -15,3 +15,11 @@
 **电话拦截**
 
 1. 电话的拦截记录
+
+###技术要点
+
+1. listview+checkbox
+2. fragment+viewpager
+3. sqlite
+4. service
+5. broadcastreceiver
