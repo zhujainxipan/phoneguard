@@ -25,3 +25,7 @@
 5. BroadcastReceiver
 6. ContentProvider
 7. Activity
+
+###待改进
+
+1. 使用正则表达式处理一下+86的问题。
